@@ -1,4 +1,4 @@
-# Welcome to Defold
+# Welcome to ChessFray
 
 This project was created from the "mobile" project template. This means that the settings in ["game.project"](defold://open?path=/game.project) have been changed to be suitable for a mobile game:
 
